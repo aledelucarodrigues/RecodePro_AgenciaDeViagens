@@ -55,7 +55,6 @@ Projeto em desenvolvimento.
   - [ ] Consulta de métodos de pagamento
     - PIX
     - Cartão de crédito
-    - Débito
     - Boleto
 
 
@@ -77,7 +76,7 @@ O layout da aplicação foi desenvolvido diretamente na aplicação, utilizando 
 ## 🚀 Como executar o projeto
 
 Este projeto é divido em três partes:
-1. Backend (pasta server) - EM BREVE 
+1. Backend (pasta server) - DISPONÍVEL
 2. Frontend (pasta web) - DISPONÍVEL
 3. Mobile (pasta mobile) - EM BREVE
 
@@ -90,12 +89,20 @@ Este projeto é divido em três partes:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website** 
+#### **Website - Front End** 
 
 -   **HTML**
 -   **CSS**
 -   **Bootstrap**
--   **JavaScript (Em breve)**
+-   **JavaScript (Em construção)**
+
+#### **Website - Back End** 
+
+-   **JAVA**
+
+#### **Website - Dados** 
+
+-   **MySQL**
 
 ---
 
